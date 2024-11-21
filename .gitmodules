@@ -1,0 +1,9 @@
+[submodule "Computer-Networks"]
+	path = Computer-Networks
+	url = https://github.com/diogojarodrigues/Computer-Networks
+[submodule "Operating-Systems"]
+	path = Operating-Systems
+	url = https://github.com/diogojarodrigues/Operating-Systems
+[submodule "Computer-Architecture"]
+	path = Computer-Architecture
+	url = https://github.com/diogojarodrigues/Computer-Architecture
